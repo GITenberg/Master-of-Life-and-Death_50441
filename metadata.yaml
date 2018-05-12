@@ -1,4 +1,8 @@
 _repo: Master-of-Life-and-Death_50441
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50441-h/images/cover.jpg
 creator:
   author:
     agent_name: Silverberg, Robert
@@ -7,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28358
     wikipedia: http://en.wikipedia.org/wiki/Robert_Silverberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50441#Master-of-Life-and-Death
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2015-11-12'
 gutenberg_type: Text
